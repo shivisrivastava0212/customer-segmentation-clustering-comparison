@@ -33,7 +33,8 @@ In clustering, success is measured by **Spatial Separation** and **Density** rat
 | **Best Hyperparameter**| $k=5$ | $eps=0.5$ | $min\_cluster\_size=5$ |
 
 ### Visual Analysis
-![Clustering Results Comparison](your_uploaded_screenshot_name.jpg)
+<img width="1278" height="397" alt="Screenshot 2026-05-11 at 12 24 11 PM" src="https://github.com/user-attachments/assets/c48c94cc-b832-43ee-8412-82adb0d38250" />
+
 * **K-Means:** Provides the "cleanest" looking split, ideal for broad marketing tiers.
 * **DBSCAN:** Best at identifying customers who don't fit the typical mold (Noise).
 * **HDBSCAN:** Successfully isolated dense core groups while ignoring the background "scatter" of non-typical shoppers.
@@ -74,4 +75,4 @@ Following the **Industry Checklist**, the following parameters provided the most
 
 ## 👤 Author
 **Shivi Srivastava** Aspiring AI Engineer | Amity University Uttar Pradesh  
-[LinkedIn Profile](https://www.linkedin.com/in/shivi-srivastava-0b4b2b2a0/) | [GitHub Portfolio](https://github.com/shivisrivastava0212)
+[LinkedIn Profile](https://www.linkedin.com/in/shivi-srivastava-8a5086310/) | [GitHub Portfolio](https://github.com/shivisrivastava0212)
